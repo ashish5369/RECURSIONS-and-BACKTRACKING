@@ -67,6 +67,7 @@ public class recurTowerOfHanoi {
         int t2d = sc.nextInt();
         int t3d = sc.nextInt();
         toh(n, t1d, t2d, t3d);
+        sc.close();
 
     }
 }
