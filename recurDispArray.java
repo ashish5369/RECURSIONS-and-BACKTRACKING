@@ -26,6 +26,7 @@ public class recurDispArray {
         }
 
         displayArray(arr, 0);
+        sc.close();
 
     }
 }
