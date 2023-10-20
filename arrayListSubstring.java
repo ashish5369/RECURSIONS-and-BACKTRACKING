@@ -40,6 +40,7 @@ public class arrayListSubstring {
         String str = sc.next();
         ArrayList<String> res = gss(str);
         System.out.println(res);
+        sc.close();
 
     }
 }
