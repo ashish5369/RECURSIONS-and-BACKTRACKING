@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class printStairPath {
+public class recurPrintStairPath {
     public static void printStairPath(int n, String path) {
         if (n < 0) {
             return;

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class getMazePath {
+public class recurGetMazePath {
     public static ArrayList<String> getMazePath(int sr, int sc, int dr, int dc) {
 
         if (sc == dc && sr == dr) {
